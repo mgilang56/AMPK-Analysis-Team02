@@ -1,6 +1,6 @@
 # 🚀 Implementasi Random Forest untuk Klasifikasi dan Analisis Aktivasi AMPK
 
-![Project Banner](https://via.placeholder.com/1000x300?text=Random+Forest+AMPK+Analysis)
+![Project Banner](Assets/Banner Github & Background Zoom.png)
 
 ## 📋 Daftar Isi
 - [🌟 Pendahuluan](#pendahuluan)
